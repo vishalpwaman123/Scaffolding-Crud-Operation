@@ -1,0 +1,17 @@
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Repositories.deps.json
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Repositories.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Repositories.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Entities.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Models.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Entities.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\bin\Debug\net8.0\Savills.SIA.Models.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.csproj.AssemblyReference.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills..F0B2DB0D.Up2Date
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\refint\Savills.SIA.Repositories.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\Savills.SIA.Repositories.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Repositories\obj\Debug\net8.0\ref\Savills.SIA.Repositories.dll

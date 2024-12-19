@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D56415-F378-4A8B-B747-D1443D18FAAF}|Savills.SIA.Repositories\\Savills.SIA.Repositories.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.repositories\\contatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D56415-F378-4A8B-B747-D1443D18FAAF}|Savills.SIA.Repositories\\Savills.SIA.Repositories.csproj|solutionrelative:savills.sia.repositories\\contatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CB6EB1-3370-486B-BB32-0B9B65F084D6}|Savills.SIA.Entities\\Savills.SIA.Entities.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CB6EB1-3370-486B-BB32-0B9B65F084D6}|Savills.SIA.Entities\\Savills.SIA.Entities.csproj|solutionrelative:savills.sia.entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CB6EB1-3370-486B-BB32-0B9B65F084D6}|Savills.SIA.Entities\\Savills.SIA.Entities.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.entities\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CB6EB1-3370-486B-BB32-0B9B65F084D6}|Savills.SIA.Entities\\Savills.SIA.Entities.csproj|solutionrelative:savills.sia.entities\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679B63CF-C2A7-497F-94DC-F7B202106BF0}|Savills.crud.application\\Savills.SIA.API.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.crud.application\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679B63CF-C2A7-497F-94DC-F7B202106BF0}|Savills.crud.application\\Savills.SIA.API.csproj|solutionrelative:savills.crud.application\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2D5A7-4EAB-4ED3-B4D5-2BF466F8D06A}|Savills.SIA.Services\\Savills.SIA.Services.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2D5A7-4EAB-4ED3-B4D5-2BF466F8D06A}|Savills.SIA.Services\\Savills.SIA.Services.csproj|solutionrelative:savills.sia.services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2D5A7-4EAB-4ED3-B4D5-2BF466F8D06A}|Savills.SIA.Services\\Savills.SIA.Services.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.services\\interface\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2D5A7-4EAB-4ED3-B4D5-2BF466F8D06A}|Savills.SIA.Services\\Savills.SIA.Services.csproj|solutionrelative:savills.sia.services\\interface\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D56415-F378-4A8B-B747-D1443D18FAAF}|Savills.SIA.Repositories\\Savills.SIA.Repositories.csproj|c:\\users\\vishal waman\\source\\repos\\savills.crud.application\\savills.sia.repositories\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D56415-F378-4A8B-B747-D1443D18FAAF}|Savills.SIA.Repositories\\Savills.SIA.Repositories.csproj|solutionrelative:savills.sia.repositories\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Entities\\Repository.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Entities\\Repository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Entities\\Repository.cs",
+              "RelativeToolTip": "Savills.SIA.Entities\\Repository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwKoBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:58:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Entities\\IRepository.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Entities\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Entities\\IRepository.cs",
+              "RelativeToolTip": "Savills.SIA.Entities\\IRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:58:00.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Repositories\\ContatRepository.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Repositories\\ContatRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Repositories\\ContatRepository.cs",
+              "RelativeToolTip": "Savills.SIA.Repositories\\ContatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:46:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Repositories\\Interface\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Repositories\\Interface\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Repositories\\Interface\\IContactRepository.cs",
+              "RelativeToolTip": "Savills.SIA.Repositories\\Interface\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:45:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Services\\ContactService.cs",
+              "RelativeToolTip": "Savills.SIA.Services\\ContactService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:43:52.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Services\\Interface\\IContactService.cs",
+              "RelativeDocumentMoniker": "Savills.SIA.Services\\Interface\\IContactService.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.SIA.Services\\Interface\\IContactService.cs",
+              "RelativeToolTip": "Savills.SIA.Services\\Interface\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:43:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.crud.application\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Savills.crud.application\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Savills.crud.application\\Savills.crud.application\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Savills.crud.application\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:43:00.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

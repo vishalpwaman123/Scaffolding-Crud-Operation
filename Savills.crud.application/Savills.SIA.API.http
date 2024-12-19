@@ -1,0 +1,6 @@
+@Savills.crud.application_HostAddress = http://localhost:5071
+
+GET {{Savills.crud.application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

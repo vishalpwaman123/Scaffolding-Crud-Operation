@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Savills.SIA.Entities\Savills.SIA.Entities.csproj" />
+    <ProjectReference Include="..\Savills.SIA.Models\Savills.SIA.Models.csproj" />
+  </ItemGroup>
+
+</Project>

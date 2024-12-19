@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b7QmNDwj5WsD8QDIN4cCCUiJVlMhcXcCwDDkhpsqCtA=",
+  "Source": "Savills.SIA.API",
+  "BasePath": "_content/Savills.SIA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

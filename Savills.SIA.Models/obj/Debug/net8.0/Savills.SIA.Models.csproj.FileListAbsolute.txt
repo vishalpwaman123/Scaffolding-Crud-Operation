@@ -1,0 +1,11 @@
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\bin\Debug\net8.0\Savills.SIA.Models.deps.json
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\bin\Debug\net8.0\Savills.SIA.Models.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\bin\Debug\net8.0\Savills.SIA.Models.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\refint\Savills.SIA.Models.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\Savills.SIA.Models.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Models\obj\Debug\net8.0\ref\Savills.SIA.Models.dll

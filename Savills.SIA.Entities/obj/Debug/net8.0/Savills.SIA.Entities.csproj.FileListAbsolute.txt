@@ -1,0 +1,14 @@
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\bin\Debug\net8.0\Savills.SIA.Entities.deps.json
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\bin\Debug\net8.0\Savills.SIA.Entities.runtimeconfig.json
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\bin\Debug\net8.0\Savills.SIA.Entities.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\bin\Debug\net8.0\Savills.SIA.Entities.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.csproj.AssemblyReference.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\refint\Savills.SIA.Entities.dll
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.pdb
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\Savills.SIA.Entities.genruntimeconfig.cache
+C:\Users\Vishal Waman\source\repos\Savills.crud.application\Savills.SIA.Entities\obj\Debug\net8.0\ref\Savills.SIA.Entities.dll
